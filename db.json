@@ -5,30 +5,30 @@
 "pedido":[{"remision":"7023","pedido":"322","nroOrdenRuta":0, "nroOrdenRutaReal":0,"flagPagoEntrega":1,"vlrPedido":250000,"vlrRecaudo":0,"cliente":"malusca","direccion":"calle 10 con mi casa","telefono":"1234567","latitudPedido":"-4.56","longitudPedido":"3453","latitudEntrega":"","longitudEntrega":"","caracterizacion":"ENTREGAR de 8 a 12","clasePedido":"E","idNovedad":" ","observaCarguePedido":"","observaEntregaPedido":"","fotoDocEntrega":"","estadoPedido":11,"fechaEntrega":" ",
 
 
-"detalle":[{"tipoEmpaque":"caja","codEmpaque":"cj0011010","estadoDetallePedido":11,"latitudEntregaDet":"","longitudEntregaDet":"","observaEntregaDet":"",
+"detalle":[{"tipoEmpaque":"caj","codEmpaque":"cj0011010","estadoDetallePedido":11,"latitudEntregaDet":"","longitudEntregaDet":"","observaEntregaDet":"",
  "idNovedad":" ","cantNovedad":0,"detalleEmpaque" :[
 {"item":"234350","descItem":"botellas"  ,"cantidad":3,"estadoDetalleEmpaque":11,"idNovedad":" ","cantNovedad":0 },
 {"item":"234351","descItem":"botellas1"  ,"cantidad":2 ,"estadoDetalleEmpaque":11,"idNovedad":" ","cantNovedad":0  },
 {"item":"234352","descItem":"botellas2"  ,"cantidad":3 ,"estadoDetalleEmpaque":11,"idNovedad":" ","cantNovedad":0  },
 {"item":"234353","descItem":"botellas3"  ,"cantidad":3 ,"estadoDetalleEmpaque":11,"idNovedad":" ","cantNovedad":0 }]},
-{"tipoEmpaque":"caja","codEmpaque":"cj0011011" ,"estadoDetallePedido":11,"latitudEntregaDet":"","longitudEntregaDet":"","observaEntregaDet":"",
+{"tipoEmpaque":"caj","codEmpaque":"cj0011011" ,"estadoDetallePedido":11,"latitudEntregaDet":"","longitudEntregaDet":"","observaEntregaDet":"",
  "idNovedad":" ","cantNovedad":0,"detalleEmpaque" :[{"item":"234354","descItem":"botellas4", "cantidad":5,"estadoDetalleEmpaque":11,"idNovedad":" ","cantNovedad":0  }]} ]    } , 
 
 {"remision":"7024","pedido":"323","nroOrdenRuta":0, "nroOrdenRutaReal":0,"flagPagoEntrega":0,"vlrPedido":45000,"vlrRecaudo":0,"cliente":"pepin","direccion":"calle 10 con la otra casa","telefono":"89101123","latitudPedido":"-7.87","longitudPedido":"456","latitudEntrega":"","longitudEntrega":"","caracterizacion":"ENTREGAR de 8 a 12","clasePedido":"E","idNovedad":" ","observaCarguePedido":"","observaEntregaPedido":"","fotoDocEntrega":"","estadoPedido":11,"fechaEntrega":" ",
 
 
-"detalle":[{"tipoEmpaque":"caja","codEmpaque":"cj0011012","estadoDetallePedido":11,"latitudEntregaDet":"","longitudEntregaDet":"","observaEntregaDet":"", "idNovedad":" ","cantNovedad":0, "detalleEmpaque" :[
+"detalle":[{"tipoEmpaque":"caj","codEmpaque":"cj0011012","estadoDetallePedido":11,"latitudEntregaDet":"","longitudEntregaDet":"","observaEntregaDet":"", "idNovedad":" ","cantNovedad":0, "detalleEmpaque" :[
 {"item":"234355","descItem":"botellas5"  ,"cantidad":3,"estadoDetalleEmpaque":11,"idNovedad":" ","cantNovedad":0  },
 {"item":"234356","descItem":"botellas6"  ,"cantidad":2 ,"estadoDetalleEmpaque":11,"idNovedad":" ","cantNovedad":0  },
 {"item":"234357","descItem":"botellas9"  ,"cantidad":3 ,"estadoDetalleEmpaque":11,"idNovedad":" ","cantNovedad":0  },
 {"item":"234358","descItem":"botellas8"  ,"cantidad":3 ,"estadoDetalleEmpaque":11,"idNovedad":" ","cantNovedad":0 }]},
-{"tipoEmpaque":"caja","codEmpaque":"cj0011013" ,"estadoDetallePedido":11,"latitudEntregaDet":"","longitudEntregaDet":"","observaEntregaDet":"",
+{"tipoEmpaque":"caj","codEmpaque":"cj0011013" ,"estadoDetallePedido":11,"latitudEntregaDet":"","longitudEntregaDet":"","observaEntregaDet":"",
  "idNovedad":" ","cantNovedad":0,"detalleEmpaque" :[{"item":"234359","descItem":"botellas10", "cantidad":5,"estadoDetalleEmpaque":11,"idNovedad":" ","cantNovedad":0  }]} ]},
 
 {"remision":"7025","pedido":"315","nroOrdenRuta":0, "nroOrdenRutaReal":0,"flagPagoEntrega":0,"vlrRecaudo":0,"vlrPedido":0,"cliente":"luisin","direccion":"calle 10 donde ya estuve","telefono":"5656544","latitudPedido":"-2.87","longitudPedido":"545454","latitudEntrega":"","longitudEntrega":"","caracterizacion":"RECOGER de 8 a 12","clasePedido":"R","idNovedad":" ","observaCarguePedido":"","observaEntregaPedido":"","fotoDocEntrega":"","estadoPedido":11,"fechaEntrega":" ",
 
 
-"detalle":[{"tipoEmpaque":"caja","codEmpaque":"cj0011018","estadoDetallePedido":11,"latitudEntregaDet":"","longitudEntregaDet":"","observaEntregaDet":"", "idNovedad":" ","cantNovedad":0, "detalleEmpaque" :[
+"detalle":[{"tipoEmpaque":"caj","codEmpaque":"cj0011018","estadoDetallePedido":11,"latitudEntregaDet":"","longitudEntregaDet":"","observaEntregaDet":"", "idNovedad":" ","cantNovedad":0, "detalleEmpaque" :[
 {"item":"234200","descItem":"vaso 1"  ,"cantidad":1,"estadoDetalleEmpaque":11, "idNovedad":" ","cantNovedad":0  },
 {"item":"234201","descItem":"vaso 2"  ,"cantidad":1 ,"estadoDetalleEmpaque":11, "idNovedad":" ","cantNovedad":0  },
 {"item":"234202","descItem":"vaso 3"  ,"cantidad":1 ,"estadoDetalleEmpaque":11,"idNovedad":" ","cantNovedad":0  }]} ]}
