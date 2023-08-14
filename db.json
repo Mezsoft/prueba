@@ -26,7 +26,7 @@
 {"remision":"7026","pedido":"330","nroOrdenRuta":3, "nroOrdenRutaReal":0,"flagPagoEntrega":0,"vlrPedido":0,"vlrRecaudo":0,"cliente":"el de la esquina que vino a preguntar","direccion":"carrera 3 15-43","telefono":"89101123","latitudPedido":"4.752476156641864","longitudPedido":"-75.9033821288662","latitudEntrega":"","longitudEntrega":"","caracterizacion":"ENTREGAR de 8 a 12","clasePedido":"E","idNovedad":" ","observaCarguePedido":"","observaEntregaPedido":"","fotoDocEntrega":"","estadoPedido":11,"fechaEntrega":" ",
 "firma":"",
 
-"detalle":[{"tipoEmpaque":"paq","codEmpaque":"CJ0011020","estadoDetallePedido":11,"latitudEntregaDet":"","longitudEntregaDet":"","observaEntregaDet":"", "idNovedad":" ","cantNovedad":0, "detalleEmpaque" :[
+"detalle":[{"tipoEmpaque":"paq","codEmpaque":"PQ0011020","estadoDetallePedido":11,"latitudEntregaDet":"","longitudEntregaDet":"","observaEntregaDet":"", "idNovedad":" ","cantNovedad":0, "detalleEmpaque" :[
 {"item":"234360","descItem":"bot5"  ,"cantidad":3,"estadoDetEmpaque":11,"idNovedad":" ","cantNovedad":0  },
 {"item":"234358","descItem":"bot8"  ,"cantidad":3 ,"estadoDetEmpaque":11,"idNovedad":" ","cantNovedad":0 }]},
 {"tipoEmpaque":"caj","codEmpaque":"CJ0011022" ,"estadoDetallePedido":11,"latitudEntregaDet":"","longitudEntregaDet":"","observaEntregaDet":"",
