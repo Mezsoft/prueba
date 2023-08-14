@@ -8,13 +8,13 @@
 
 "detalle":[{"tipoEmpaque":"caj","codEmpaque":"CJ0011010","estadoDetallePedido":11,"latitudEntregaDet":"","longitudEntregaDet":"","observaEntregaDet":"",
 "detalleEmpaque" :[
-{"item":"234350","descItem":"botellas"  ,"cantidad":3,"estadoDetEmpaque":11,"idNovedad":" ","cantNovedad":0 },
-{"item":"234351","descItem":"botellas1"  ,"cantidad":2 ,"estadoDetEmpaque":11,"idNovedad":" ","cantNovedad":0  },
-{"item":"234353","descItem":"botellas3"  ,"cantidad":3 ,"estadoDetEmpaque":11,"idNovedad":" ","cantNovedad":0 }]},
+{"item":"234350","descItem":"botellas"  ,"cantidad":3,"estadoDetEmpaque":11,"idNovedad":" ","cantRec":0 },
+{"item":"234351","descItem":"botellas1"  ,"cantidad":2 ,"estadoDetEmpaque":11,"idNovedad":" ","cantRec":0  },
+{"item":"234353","descItem":"botellas3"  ,"cantidad":3 ,"estadoDetEmpaque":11,"idNovedad":" ","cantRec":0 }]},
 
 {"tipoEmpaque":"caj","codEmpaque":"CJ0011011" ,"estadoDetallePedido":11,"latitudEntregaDet":"","longitudEntregaDet":"","observaEntregaDet":"",
 
-"detalleEmpaque" :[{"item":"234354","descItem":"botellas4", "cantidad":5,"estadoDetEmpaque":11,"idNovedad":" ","cantNovedad":0  }]} ]    } , 
+"detalleEmpaque" :[{"item":"234354","descItem":"botellas4", "cantidad":5,"estadoDetEmpaque":11,"idNovedad":" ","cantRec":0  }]} ]    } , 
 
 
 {"remision":"7024","pedido":"323","nroOrdenRuta":2, "nroOrdenRutaReal":0,"flagPagoEntrega":0,"vlrPedido":0,"vlrRecaudo":0,"cliente":"pepin de los palotes","direccion":"calle 10 con la otra casa","telefono":"89101123","latitudPedido":"4.750462209610555","longitudPedido":"-75.91327006559587","latitudEntrega":"","longitudEntrega":"","caracterizacion":"ENTREGAR de 8 a 12","clasePedido":"E","idNovedad":" ","observaCarguePedido":"","observaEntregaPedido":"","fotoDocEntrega":"","estadoPedido":11,"fechaEntrega":" ",
@@ -24,12 +24,12 @@
 "detalle":[{"tipoEmpaque":"caj","codEmpaque":"CJ0011012","estadoDetallePedido":11,"latitudEntregaDet":"","longitudEntregaDet":"","observaEntregaDet":"", 
 
 "detalleEmpaque" :[
-{"item":"234355","descItem":"bot5"  ,"cantidad":3,"estadoDetEmpaque":11,"idNovedad":" ","cantNovedad":0  },
-{"item":"234358","descItem":"bot8"  ,"cantidad":3 ,"estadoDetEmpaque":11,"idNovedad":" ","cantNovedad":0 }]},
+{"item":"234355","descItem":"bot5"  ,"cantidad":3,"estadoDetEmpaque":11,"idNovedad":" ","cantRec":0  },
+{"item":"234358","descItem":"bot8"  ,"cantidad":3 ,"estadoDetEmpaque":11,"idNovedad":" ","cantRec":0 }]},
 
 {"tipoEmpaque":"caj","codEmpaque":"CJ0011013" ,"estadoDetallePedido":11,"latitudEntregaDet":"","longitudEntregaDet":"","observaEntregaDet":"",
 
- "detalleEmpaque" :[{"item":"234359","descItem":"bot10", "cantidad":5,"estadoDetEmpaque":11,"idNovedad":" ","cantNovedad":0  }]} ]},
+ "detalleEmpaque" :[{"item":"234359","descItem":"bot10", "cantidad":5,"estadoDetEmpaque":11,"idNovedad":" ","cantRec":0  }]} ]},
 
 
 
@@ -40,12 +40,12 @@
 "detalle":[{"tipoEmpaque":"paq","codEmpaque":"PQ0011020","estadoDetallePedido":11,"latitudEntregaDet":"","longitudEntregaDet":"","observaEntregaDet":"", 
 
 "detalleEmpaque" :[
-{"item":"234360","descItem":"bot5"  ,"cantidad":3,"estadoDetEmpaque":11,"idNovedad":" ","cantNovedad":0  },
-{"item":"234358","descItem":"bot8"  ,"cantidad":3 ,"estadoDetEmpaque":11,"idNovedad":" ","cantNovedad":0 }]},
+{"item":"234360","descItem":"bot5"  ,"cantidad":3,"estadoDetEmpaque":11,"idNovedad":" ","cantRec":0  },
+{"item":"234358","descItem":"bot8"  ,"cantidad":3 ,"estadoDetEmpaque":11,"idNovedad":" ","cantRec":0 }]},
 
 {"tipoEmpaque":"caj","codEmpaque":"CJ0011022" ,"estadoDetallePedido":11,"latitudEntregaDet":"","longitudEntregaDet":"","observaEntregaDet":"",
 
-"detalleEmpaque" :[{"item":"234359","descItem":"bot10", "cantidad":5,"estadoDetEmpaque":11,"idNovedad":" ","cantNovedad":0  }]} ]},
+"detalleEmpaque" :[{"item":"234359","descItem":"bot10", "cantidad":5,"estadoDetEmpaque":11,"idNovedad":" ","cantRec":0  }]} ]},
 
 
 {"remision":"7027","pedido":"331","nroOrdenRuta":4, "nroOrdenRutaReal":0,"flagPagoEntrega":2,"vlrPedido":67000,"vlrRecaudo":0,"cliente":"Exito Norte","direccion":"carrera 3 15-43","telefono":"89101123","latitudPedido":"4.752904402807191","longitudPedido":"-75.92146038975191","latitudEntrega":"","longitudEntrega":"","caracterizacion":"ENTREGAR de 8 a 12","clasePedido":"E","idNovedad":" ","observaCarguePedido":"","observaEntregaPedido":"","fotoDocEntrega":"","estadoPedido":11,"fechaEntrega":" ",
@@ -54,13 +54,13 @@
 "detalle":[{"tipoEmpaque":"caj","codEmpaque":"CJ0011020","estadoDetallePedido":11,"latitudEntregaDet":"","longitudEntregaDet":"","observaEntregaDet":"",
 
 "detalleEmpaque" :[
-{"item":"234360","descItem":"bot5"  ,"cantidad":3,"estadoDetEmpaque":11,"idNovedad":" ","cantNovedad":0  },
-{"item":"234358","descItem":"bot8"  ,"cantidad":3 ,"estadoDetEmpaque":11,"idNovedad":" ","cantNovedad":0 }]},
+{"item":"234360","descItem":"bot5"  ,"cantidad":3,"estadoDetEmpaque":11,"idNovedad":" ","cantRec":0  },
+{"item":"234358","descItem":"bot8"  ,"cantidad":3 ,"estadoDetEmpaque":11,"idNovedad":" ","cantRec":0 }]},
 
 {"tipoEmpaque":"caj","codEmpaque":"CJ0011022" ,"estadoDetallePedido":11,"latitudEntregaDet":"","longitudEntregaDet":"","observaEntregaDet":"",
 
 
-"detalleEmpaque" :[{"item":"234359","descItem":"bot10", "cantidad":5,"estadoDetEmpaque":11,"idNovedad":" ","cantNovedad":0  }]} ]},
+"detalleEmpaque" :[{"item":"234359","descItem":"bot10", "cantidad":5,"estadoDetEmpaque":11,"idNovedad":" ","cantRec":0  }]} ]},
 
 
 {"remision":"7028","pedido":"332","nroOrdenRuta":5, "nroOrdenRutaReal":0,"flagPagoEntrega":0,"vlrPedido":0,"vlrRecaudo":0,"cliente":"Carrefour de la 5","direccion":"carrera 3 15-43","telefono":"89101123","latitudPedido":"4.7512792256095455","longitudPedido":"-75.92519402482456","latitudEntrega":"","longitudEntrega":"","caracterizacion":"ENTREGAR de 8 a 12","clasePedido":"E","idNovedad":" ","observaCarguePedido":"","observaEntregaPedido":"","fotoDocEntrega":"","estadoPedido":11,"fechaEntrega":" ",
@@ -69,13 +69,13 @@
 "detalle":[{"tipoEmpaque":"caj","codEmpaque":"CJ0011020","estadoDetallePedido":11,"latitudEntregaDet":"","longitudEntregaDet":"","observaEntregaDet":"", 
 
  "detalleEmpaque" :[
-{"item":"234360","descItem":"bot5"  ,"cantidad":3,"estadoDetEmpaque":11,"idNovedad":" ","cantNovedad":0  },
-{"item":"234358","descItem":"bot8"  ,"cantidad":3 ,"estadoDetEmpaque":11,"idNovedad":" ","cantNovedad":0 }]},
+{"item":"234360","descItem":"bot5"  ,"cantidad":3,"estadoDetEmpaque":11,"idNovedad":" ","cantRec":0  },
+{"item":"234358","descItem":"bot8"  ,"cantidad":3 ,"estadoDetEmpaque":11,"idNovedad":" ","cantRec":0 }]},
 
 {"tipoEmpaque":"caj","codEmpaque":"CJ0011022" ,"estadoDetallePedido":11,"latitudEntregaDet":"","longitudEntregaDet":"","observaEntregaDet":"",
 
 
-"detalleEmpaque" :[{"item":"234359","descItem":"bot10", "cantidad":5,"estadoDetEmpaque":11,"idNovedad":" ","cantNovedad":0  }]} ]},
+"detalleEmpaque" :[{"item":"234359","descItem":"bot10", "cantidad":5,"estadoDetEmpaque":11,"idNovedad":" ","cantRec":0  }]} ]},
 
 
 
@@ -85,9 +85,9 @@
 "detalle":[{"tipoEmpaque":"caj","codEmpaque":"CJ0011020","estadoDetallePedido":11,"latitudEntregaDet":"","longitudEntregaDet":"","observaEntregaDet":"",  
 
 "detalleEmpaque" :[
-{"item":"234358","descItem":"bot8"  ,"cantidad":3 ,"estadoDetEmpaque":11,"idNovedad":" ","cantNovedad":0 }]},
+{"item":"234358","descItem":"bot8"  ,"cantidad":3 ,"estadoDetEmpaque":11,"idNovedad":" ","cantRec":0 }]},
 {"tipoEmpaque":"caj","codEmpaque":"CJ0011022" ,"estadoDetallePedido":11,"latitudEntregaDet":"","longitudEntregaDet":"","observaEntregaDet":"",
- "idNovedad":" ","cantNovedad":0,"detalleEmpaque" :[{"item":"234359","descItem":"bot10", "cantidad":5,"estadoDetEmpaque":11,"idNovedad":" ","cantNovedad":0  }]} ]},
+"detalleEmpaque" :[{"item":"234359","descItem":"bot10", "cantidad":5,"estadoDetEmpaque":11,"idNovedad":" ","cantRec":0  }]} ]},
 
 
 
@@ -97,12 +97,12 @@
 "detalle":[{"tipoEmpaque":"caj","codEmpaque":"CJ0011020","estadoDetallePedido":11,"latitudEntregaDet":"","longitudEntregaDet":"","observaEntregaDet":"", 
 
 "detalleEmpaque" :[
-{"item":"234360","descItem":"bot5"  ,"cantidad":3,"estadoDetEmpaque":11,"idNovedad":" ","cantNovedad":0  },
-{"item":"234358","descItem":"bot8"  ,"cantidad":3 ,"estadoDetEmpaque":11,"idNovedad":" ","cantNovedad":0 }]},
+{"item":"234360","descItem":"bot5"  ,"cantidad":3,"estadoDetEmpaque":11,"idNovedad":" ","cantRec":0  },
+{"item":"234358","descItem":"bot8"  ,"cantidad":3 ,"estadoDetEmpaque":11,"idNovedad":" ","cantRec":0 }]},
 
 {"tipoEmpaque":"caj","codEmpaque":"CJ0011022" ,"estadoDetallePedido":11,"latitudEntregaDet":"","longitudEntregaDet":"","observaEntregaDet":"",
 
-"detalleEmpaque" :[{"item":"234359","descItem":"b10", "cantidad":5,"estadoDetEmpaque":11,"idNovedad":" ","cantNovedad":0  }]} ]},
+"detalleEmpaque" :[{"item":"234359","descItem":"b10", "cantidad":5,"estadoDetEmpaque":11,"idNovedad":" ","cantRec":0  }]} ]},
 
 
 
@@ -113,7 +113,7 @@
 "detalle":[{"tipoEmpaque":"caj","codEmpaque":"CJ0011018","estadoDetallePedido":11,"latitudEntregaDet":"","longitudEntregaDet":"","observaEntregaDet":"",  
 
 "detalleEmpaque" :[
-{"item":"234200","descItem":"vaso 1"  ,"cantidad":1,"estadoDetEmpaque":11, "idNovedad":" ","cantNovedad":0  },
-{"item":"234201","descItem":"vaso 2"  ,"cantidad":1 ,"estadoDetEmpaque":11, "idNovedad":" ","cantNovedad":0  }
+{"item":"234200","descItem":"vaso 1"  ,"cantidad":1,"estadoDetEmpaque":11, "idNovedad":" ","cantRec":0  },
+{"item":"234201","descItem":"vaso 2"  ,"cantidad":1 ,"estadoDetEmpaque":11, "idNovedad":" ","cantRec":0  }
 ]} ]}
 ]} ]}
