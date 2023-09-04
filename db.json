@@ -8,9 +8,9 @@
 
 "detalle":[{"tipoEmpaque":"caj","codEmpaque":"CJ0011010","estadoDetallePedido":11,"latitudEntregaDet":"","longitudEntregaDet":"","entregado":0,
 "detalleEmpaque" :[
-{"idItem":"234350","descItem":"botellas"  ,"cantidad":3,"estadoDetEmpaque":11,"idNovedad":" ","cantRec":0 ,"observaEntregaDet":""},
-{"idItem":"234351","descItem":"botellas1"  ,"cantidad":2 ,"estadoDetEmpaque":11,"idNovedad":" ","cantRec":0,"observaEntregaDet":""  },
-{"idItem":"234353","descItem":"botellas3"  ,"cantidad":3 ,"estadoDetEmpaque":11,"idNovedad":" ","cantRec":0 ,"observaEntregaDet":""}]},
+{"idItem":"234350","descItem":"mueble comedor"  ,"cantidad":3,"estadoDetEmpaque":11,"idNovedad":" ","cantRec":0 ,"observaEntregaDet":""},
+{"idItem":"234351","descItem":"silla comedor"  ,"cantidad":2 ,"estadoDetEmpaque":11,"idNovedad":" ","cantRec":0,"observaEntregaDet":""  },
+{"idItem":"234353","descItem":"mueble auxiliar"  ,"cantidad":3 ,"estadoDetEmpaque":11,"idNovedad":" ","cantRec":0 ,"observaEntregaDet":""}]},
 
 {"tipoEmpaque":"caj","codEmpaque":"CJ0011011" ,"estadoDetallePedido":11,"latitudEntregaDet":"","longitudEntregaDet":"","entregado":0,
 
