@@ -8,16 +8,16 @@
 
 "detalle":[{"tipoEmpaque":"caj","codEmpaque":"CJ0011010","estadoDetallePedido":11,"latitudEntregaDet":"","longitudEntregaDet":"","entregado":0,
 "detalleEmpaque" :[
-{"idItem":"234350","descItem":"botellas"  ,"cantidad":3,"estadoDetEmpaque":11,"idNovedad":" ","cantRec":0 ,"observaEntregaDet":""},
-{"idItem":"234351","descItem":"botellas1"  ,"cantidad":2 ,"estadoDetEmpaque":11,"idNovedad":" ","cantRec":0,"observaEntregaDet":""  },
-{"idItem":"234353","descItem":"botellas3"  ,"cantidad":3 ,"estadoDetEmpaque":11,"idNovedad":" ","cantRec":0 ,"observaEntregaDet":""}]},
+{"idItem":"234350","descItem":"mesa comedor"  ,"cantidad":3,"estadoDetEmpaque":11,"idNovedad":" ","cantRec":0 ,"observaEntregaDet":""},
+{"idItem":"234351","descItem":"silla comedor"  ,"cantidad":2 ,"estadoDetEmpaque":11,"idNovedad":" ","cantRec":0,"observaEntregaDet":""  },
+{"idItem":"234353","descItem":"mueble auxiliar"  ,"cantidad":3 ,"estadoDetEmpaque":11,"idNovedad":" ","cantRec":0 ,"observaEntregaDet":""}]},
 
 {"tipoEmpaque":"caj","codEmpaque":"CJ0011011" ,"estadoDetallePedido":11,"latitudEntregaDet":"","longitudEntregaDet":"","entregado":0,
 
 "detalleEmpaque" :[{"idItem":"234354","descItem":"botellas4", "cantidad":5,"estadoDetEmpaque":11,"idNovedad":" ","cantRec":0 ,"observaEntregaDet":"" }]} ]    } , 
 
 
-{"remision":"7024","pedido":"323","nroOrdenRuta":2, "nroOrdenRutaReal":0,"flagPagoEntrega":0,"vlrPedido":0,"vlrRecaudo":0,"cliente":"pepin de los palotes","direccion":"calle 10 con la otra casa","telefono":"89101123","latitudPedido":"4.750462209610555","longitudPedido":"-75.91327006559587","latitudEntrega":"","longitudEntrega":"","caracterizacion":"LO recibe otra persona, Pedro Perez","clasePedido":"E","idNovedad":" ","observaCarguePedido":"","observaEntregaPedido":"","fotoDocEntrega":"","estadoPedido":11,"fechaEntrega":" ",
+{"remision":"7024","pedido":"323","nroOrdenRuta":2, "nroOrdenRutaReal":0,"flagPagoEntrega":0,"vlrPedido":0,"vlrRecaudo":0,"cliente":"pepin de los palotes","direccion":"calle 10 con la otra casa, cera del parque donde van los niños a jugar balón, barrio de por mi casa","telefono":"89101123","latitudPedido":"4.750462209610555","longitudPedido":"-75.91327006559587","latitudEntrega":"","longitudEntrega":"","caracterizacion":"LO recibe otra persona, Pedro Perez","clasePedido":"E","idNovedad":" ","observaCarguePedido":"","observaEntregaPedido":"","fotoDocEntrega":"","estadoPedido":11,"fechaEntrega":" ",
 "firma":"",
 
 
