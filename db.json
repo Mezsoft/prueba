@@ -35,7 +35,7 @@
 
 
 
-{"remision":"7025","pedido":"315","nroOrdenRuta":8, "nroOrdenRutaReal":0,"flagPagoEntrega":0,"vlrPedido":0,"vlrRecaudo":0,"cliente":"luisin","direccion":"calle 10 donde ya estuve","telefono":"5656544","latitudPedido":"4.762441549602436","longitudPedido":"-75.93901276612797","latitudEntrega":"","longitudEntrega":"","caracterizacion":"RECOGER de 8 a 12","clasePedido":"R","idNovedad":" ","observaCarguePedido":"","observaEntregaPedido":"","fotoDocEntrega":"","estadoPedido":11,"fechaEntrega":" ",
+{"remision":"7025","pedido":"315","nroOrdenRuta":8, "nroOrdenRutaReal":0,"flagPagoEntrega":0,"vlrPedido":0,"vlrRecaudo":0,"cliente":"luisin","direccion":"calle 10 donde ya estuve, recuerdo que hay un parque con juegos de niños","telefono":"5656544","latitudPedido":"4.762441549602436","longitudPedido":"-75.93901276612797","latitudEntrega":"","longitudEntrega":"","caracterizacion":"RECOGER de 8 a 12","clasePedido":"R","idNovedad":" ","observaCarguePedido":"","observaEntregaPedido":"","fotoDocEntrega":"","estadoPedido":11,"fechaEntrega":" ",
 "firma":"",
 
 "detalle":[{"tipoEmpaque":"caj","codEmpaque":"CJ0011018","estadoDetallePedido":11,"latitudEntregaDet":"","longitudEntregaDet":"",  "entregado":0,
